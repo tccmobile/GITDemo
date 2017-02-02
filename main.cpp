@@ -26,9 +26,11 @@ int main(){
         cout<<"too much information"<<endl;
     }else if (abreviation == "YOLO") {
         cout<<"you only live once"<<endl;
+    }else if (abreviation == "YOLO") {
+        cout<<"you only live once"<<endl;
     }
     else {
-        cout<<"Unknown"<<endl;
+        cout<<"This is a GIT test"<<endl;
     }
 
     return 0;
